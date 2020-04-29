@@ -1,8 +1,11 @@
 ASDF Spline
 ===========
 
-C++ implementation of the spline type that's used in the Audio Scene Description
-Format (ASDF), see https://AudioSceneDescriptionFormat.readthedocs.io/.
+Partial and obsolete C++ implementation of the spline type that's used in the
+Audio Scene Description Format (ASDF),
+see https://AudioSceneDescriptionFormat.readthedocs.io/.
+
+Superseded by https://github.com/AudioSceneDescriptionFormat/asdfspline-rust.
 
 API Documentation
 -----------------
